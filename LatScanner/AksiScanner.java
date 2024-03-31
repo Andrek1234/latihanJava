@@ -7,6 +7,7 @@ package com.mycompany.latscanner;
  *
  * @author ACER
  */
+import java.util.Scanner;
 public class AksiScanner {
     public static void main (String args[]){
         ClassScanner scan = new ClassScanner ();

@@ -18,7 +18,7 @@ public class ClassScanner {
         return nama;
     }
     
-   public void inputScannerr(){
+    public void inputScanner(){
        System.out.print("Masukan Nama Anda : ");
        nama = input.nextLine();
        System.out.print("Masukan Nilai 1 : ");
@@ -30,8 +30,4 @@ public class ClassScanner {
    public double rata (){
        return ((n1 + n2)/2);      
    }
-
-    void inputScanner() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
 }
