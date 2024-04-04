@@ -17,7 +17,7 @@ public class NestedFor {
             for (b = a; b <= 5; b++){
                 System.out.print(a);
             }
-            System.out.println("\n");
         }
+        System.out.println("\n");
     }
 }
